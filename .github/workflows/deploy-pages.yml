@@ -40,7 +40,7 @@ jobs:
         run: npm ci
 
       - name: Install Quartz plugins
-        run: npx quartz plugin install
+        run: npm run install-plugins
 
       - name: Build published player notes
         run: npx quartz build -d "player-content/8. Player Wiki"
