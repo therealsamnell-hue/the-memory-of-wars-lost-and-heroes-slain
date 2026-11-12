@@ -65,4 +65,12 @@ h2#disclaimer {
   color: var(--tertiary);
 }
 
+/* Splash-page image: slightly narrower and centered */
+body[data-slug="index"] article img {
+  display: block;
+  max-width: 80%;
+  height: auto;
+  margin-inline: auto;
+}
+
 // put your custom CSS here!
