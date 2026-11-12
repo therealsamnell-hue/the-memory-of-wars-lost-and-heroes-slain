@@ -1,3 +1,63 @@
+
 @use "./variables.scss" as *;
+
+/* D&D theme: green-to-purple palette */
+
+html:root:root[saved-theme="dark"] {
+  --accent-color: 112, 84, 139;
+  --accent: #70548b;
+  --lite-accent: #9245b4;
+  --dark-accent: #412e4d;
+  --deep-dark-accent: #281b2c;
+  --headers: #943eb2;
+  --code-text: #be71df;
+  --i-at: #b95ebf;
+  --inactive: #755877;
+  --bg: #351e38;
+  --hr: #472b4e;
+  --table: #472b4e;
+  --secondary: #b95ebf;
+  --accent2-lite: #9245b4;
+  --graph-lines: #60436e;
+  --graph-404: #755877;
+  --embed-h: #943eb2;
+  --h3-color: #943eb2;
+  --tertiary: #4ccc97;
+  --text-accent-hover: #4ccc97;
+  --accent2: #4ccc97;
+}
+
+html:root:root[saved-theme="light"] {
+  --accent-color: 121, 110, 199;
+  --accent: #6e79c7;
+  --lite-accent: #ac7cbd;
+  --dark-accent: #5a568d;
+  --accent2-lite: #ac7cbd;
+  --headers: #4c0e93;
+  --soft-text: #8052ad;
+  --code-text: #7635ad;
+  --i-at: #804880;
+  --folder: #9164c9;
+  --fg: #62029f;
+  --bg: #d5cbe2;
+  --inactive: #ad91c1;
+  --tag: #8656c6;
+  --th: #79549f;
+  --table: #b59acb;
+  --secondary: #8052ad;
+  --graph-lines: #60436e;
+  --graph-404: #755877;
+  --embed-h: #943eb2;
+  --h3-color: #943eb2;
+  --tertiary: #4ccca0;
+  --text-accent-hover: #4ccca0;
+  --accent2: #4ccca0;
+}
+
+/* Explorer heading: use the teal tertiary accent */
+.explorer button.mobile-explorer h2,
+.explorer button.desktop-explorer h2 {
+  color: var(--tertiary);
+}
 
 // put your custom CSS here!
