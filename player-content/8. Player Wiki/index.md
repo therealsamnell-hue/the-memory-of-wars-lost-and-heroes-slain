@@ -3,7 +3,7 @@ title: The Memory of Wars Lost and Heroes Slain
 publish: true
 ---
 # Welcome to The Memory of Wars Lost and Heroes Slain
-
+![[Theteamoutside.png]]
 This is a player reference wiki for a setting-adapted old school style campaign set in Faerun's Channath Vale and surroundings, inspired by the works of Frog God Games/Necromancer Press. It is very dwarfy.
 
 ## Disclaimer
