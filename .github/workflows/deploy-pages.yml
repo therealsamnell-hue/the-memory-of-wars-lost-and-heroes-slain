@@ -43,7 +43,7 @@ jobs:
         run: npm run install-plugins
 
       - name: Build published player notes
-        run: npx quartz build -d "player-content/8. Player Wiki"
+        run: node quartz/bootstrap-cli.mjs build -d "player-content/8. Player Wiki"
 
       - name: Verify publish filtering
         run: |
