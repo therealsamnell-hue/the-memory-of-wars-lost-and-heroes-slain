@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "player-content/**"
+      - "player-content/z_Images/**"
       - "quartz.config.yaml"
       - "quartz/styles/**"
       - "quartz.lock.json"
@@ -42,8 +43,15 @@ jobs:
       - name: Install Quartz plugins
         run: npm run install-plugins
 
+      - name: Stage published content and referenced image
+        run: |
+          BUILD_CONTENT="$(mktemp -d)"
+          echo "BUILD_CONTENT=$BUILD_CONTENT" >> "$GITHUB_ENV"
+          cp -a "player-content/8. Player Wiki/." "$BUILD_CONTENT/"
+          cp "player-content/z_Images/Theteamoutside.png" "$BUILD_CONTENT/Theteamoutside.png"
+
       - name: Build published player notes
-        run: node quartz/bootstrap-cli.mjs build -d "player-content/8. Player Wiki"
+        run: node quartz/bootstrap-cli.mjs build -d "$BUILD_CONTENT"
 
       - name: Verify publish filtering
         run: |
