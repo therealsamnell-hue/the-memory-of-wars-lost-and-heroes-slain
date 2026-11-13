@@ -3,7 +3,7 @@ title: The Tale of Rappan Athuk
 publish: true
 ---
 
-Long ago, ere the rise of humanity, when dwarves and elves contended with dragons and ruled great empires, all the lands from the sea to the [[Great Rift]] were held by the line of the Deepkings[^1]. These wise and pious dwarves oversaw an empire of their own people, but also of many others who thrived under their just rule. The Deepking could but beckon and the realms of the world would gather to his call, to treat and answer perils they faced in common.   
+Long ago, ere the rise of humanity, when dwarves and elves contended with dragons and ruled great empires, all the lands from the sea to the [[Great Rift]] were held by the line of the Deepkings[^1]. These wise and pious dwarves oversaw an empire of their own people, but also of many others who thrived under their just rule. The Deepking could but beckon and the realms of the world would gather to his call, to treat and answer perils they faced in common.    
 
 At the end of that age, Graeltor[^2] sat the Mithril Throne. Word came to him by many paths[^3], about the rise of a wicked temple-city of [[Orcus]] and its growing depredations. From its towers spun necromancies such as the world had never seen. From its gates marched legions beyond count, their march shaded by the wings of dragons. And from its depths issued teeming hordes of orc and goblin, covering the land like a plague of locusts. The blood of ten nations flowed across its altars in sacrifices and desolation spread from its black walls. A growing shadow reached from [[Peleveran]] across the plains, threatening to engulf all the Realms.  
 
