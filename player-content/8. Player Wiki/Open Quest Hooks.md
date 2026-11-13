@@ -1,3 +1,9 @@
+---
+title: Open Quest Hooks
+publish: true
+---
+
+
 These are things the party has heard of and/or expressed interest in but has not yet pursued. 
 
 | Name                                                       | Questgiver                                                    | Location                                                   | Reward                             | Notes                                                                 |
