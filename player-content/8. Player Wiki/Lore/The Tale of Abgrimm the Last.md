@@ -13,7 +13,7 @@ The dwarves of the Channath Vale know otherwise: Abgrimm was a real dwarf, thoug
 
 The dwarves of Rethmar possess accounts of Abgrimm dating back roughly five centuries, though, following repeated attempts at theft, they no longer permit outsiders to examine them. More may be held beyond the adamantine gates, in the Deep Realm itself. Such places are closed to all save dwarves, who consider the matter of Abgrimm's historicity settled and see no need to furnish further evidence.
 
-The Tale of Abgrimm the Last[^1]
+### The Tale of Abgrimm the Last[^1]
 
 In ages past, Rethmar was a city of the Morndinsamman, its temples raised in honor of the dwarven gods and its halls alive with the clangor of hammer upon anvil. Its people were many, its craft renowned, and its dead were laid to rest in the Valley of Silent Dwarves, where Moradin and Berronar kept watch over the gem-studded tombs of heroes. There, beneath stone vaults carved to endure until the world's ending, the ancestors awaited the day when their descendants would join them. The mountains stood, the gods watched, and the dwarves believed that what had been wrought with patience and devotion would endure forever.
 
