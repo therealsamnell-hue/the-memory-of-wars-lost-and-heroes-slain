@@ -73,4 +73,28 @@ body[data-slug="index"] article img {
   margin-inline: auto;
 }
 
-// put your custom CSS here!
+/* Link contrast: keep links readable without the green highlight */
+html:root:root[saved-theme="dark"] a {
+  color: #c9a5ff;
+  background-color: transparent;
+  text-decoration: underline;
+  text-decoration-color: #8065a6;
+  text-underline-offset: 3px;
+}
+
+html:root:root[saved-theme="dark"] a:visited {
+  color: #b9a0d9;
+}
+
+html:root:root[saved-theme="dark"] a:hover {
+  color: #ffffff;
+  background-color: #49345f;
+  text-decoration-color: #ffffff;
+}
+
+html:root:root[saved-theme="dark"] a:focus-visible {
+  outline: 2px solid #c9a5ff;
+  outline-offset: 2px;
+}
+
+/* put your custom CSS here! */
