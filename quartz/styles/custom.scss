@@ -97,4 +97,13 @@ html:root:root[saved-theme="dark"] a:focus-visible {
   outline-offset: 2px;
 }
 
+/* Sidebar links: keep the cleaner, non-underlined navigation treatment */
+html:root:root[saved-theme="dark"] .explorer a {
+  text-decoration: none;
+}
+
+html:root:root[saved-theme="dark"] .explorer a:hover {
+  text-decoration: none;
+}
+
 /* put your custom CSS here! */
