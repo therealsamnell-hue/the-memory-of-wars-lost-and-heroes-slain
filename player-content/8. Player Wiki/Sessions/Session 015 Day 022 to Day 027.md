@@ -18,7 +18,7 @@ The party chose to fort themselves up in Eralion's former bedroom to rest and re
 
 # 22 Mirtul, 1357 - 27 Mirtul, 1357
 
-In the morning, the rested, healed party descended into a crypt. There they found a skeleton sprawled atop a stone coffin, carved with runs, and surrounded by other sarcophagi. The skeleton clutched a staff and a shattered vial with some liquid residue inside lay nearby. Save for Steiner, the shade of Eralion caught them unawares courtesy of its ability to blend seamlessly into the dim shadows all about. 
+In the morning, the rested, healed party descended into a crypt. There they found a skeleton sprawled atop a stone coffin, carved with runes, and surrounded by other sarcophagi. The skeleton clutched a staff and a shattered vial with some liquid residue inside lay nearby. Save for Steiner, the shade of Eralion caught them unawares courtesy of its ability to blend seamlessly into the dim shadows all about. 
 
 As it attacked them it frequently insulted the dwarves, Gorge and Steiner. It recoiled from invocations of Gorm Gulthyn and mocked the decline in dwarven fortunes over recent centuries. With only Gorge's magical axe able to harm it the party had to hurriedly improvise as the shade began to drain away their strength with its every touch. Gorge blessed Vash's pistol and Vash conjured magical flames along Steiner's longaxe while Tesor inspired them both and annoyed the shade with repeated ear-piercing screams.
 
