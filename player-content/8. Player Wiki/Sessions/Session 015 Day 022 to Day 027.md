@@ -22,7 +22,7 @@ In the morning, the rested, healed party descended into a crypt. There they foun
 
 As it attacked them it frequently insulted the dwarves, Gorge and Steiner. It recoiled from invocations of Gorm Gulthyn and mocked the decline in dwarven fortunes over recent centuries. With only Gorge's magical axe able to harm it the party had to hurriedly improvise as the shade began to drain away their strength with its every touch. Gorge blessed Vash's pistol and Vash conjured magical flames along Steiner's longaxe while Tesor inspired them both and annoyed the shade with repeated ear-piercing screams.
 
-The shade retained some of Eralion's might at Art, attempting a single spell which Steiner disrupted courtesy of Vash's flames. Vash's bullets and Gorge's axe did most of the work, though to finish the shade off the warpriest poured holy water over its incorporeal form. The shade boiled away, leaving the crypt fit for looting. Among the take, they discovered a staff and a magical liquid they failed to identify, as well as [[Eralion's Journal0]].
+The shade retained some of Eralion's might at Art, attempting a single spell which Steiner disrupted courtesy of Vash's flames. Vash's bullets and Gorge's axe did most of the work, though to finish the shade off the warpriest poured holy water over its incorporeal form. The shade boiled away, leaving the crypt fit for looting. Among the take, they discovered a staff and a magical liquid they failed to identify, as well as [[Eralion's Journal]].
 
 The next day, the party returned to [[Drellin's Ferry]]. There they sold much of their take and rested until fully recovered, a process consuming five days.
 
