@@ -1,6 +1,6 @@
 ---
 title: Eralion's Journal
-publish: false
+publish: true
 ---
 Eralion's Journal is a well-worn, leatherbound volume, its pages yellowed and occasionally stained with ink, reagents, and the accumulated detritus of a wizard's working life. Its entries are irregular, sometimes separated by months or even years, and vary considerably in tone. The earlier passages are written in a rather earnest hand, while the later ones become increasingly assured, elaborate, and self-important. Taken together, they provide a remarkably intimate account of the wizard's life, ambitions, and fate.
 
@@ -8,7 +8,7 @@ The earliest entries concern Eralion's youth in Sheirtalar and his apprenticeshi
 
 One of the few things that evidently pleased Vordal was Eralion's deep devotion to Moradin. The dwarf regarded this as a particularly admirable quality in his pupil, although his enthusiasm cooled considerably whenever Eralion attributed his faith to some distant dwarven ancestry. This clearly became a sore point for both over time.
 
-Eralion's apprenticeship began in the Year of the Dark Maskl[^1] and the amount of entries and references within them to recent events suggest it continued at least through the Year of Sinking Sails[^2].
+Eralion's apprenticeship began in the Year of the Dark Mask[^1] and the amount of entries and references within them to recent events suggest it continued at least through the Year of Sinking Sails[^2].
 
 There is no account of the formal conclusion of Eralion's apprenticeship. Several years after the last entry concerning Vordal, however, the journal records the young wizard's return to find that he had arrived too late. Age had at last claimed the elderly dwarf.
 
