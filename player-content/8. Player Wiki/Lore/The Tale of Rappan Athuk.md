@@ -39,7 +39,7 @@ The survivors’ tales of a vast complex dedicated to evil, perilous beyond imag
 
 [^6]:  Whether Graeltor truly suffered a mental break in despair or this is poetic license has been lost to history, but there’s little debate over dating the ebb of dwarven power and influence to the debacle at the Forest of Hope. Suppositions that a curse befell the Deep Realm, or dwarves in general, as a result are common in non-dwarven circles. Airing them in the presence of dwarves is unwise.
 
-[^7]:  The Jundarwood is in the Border Kingdoms, to the northeast and on the far side of the Shaar.
+[^7]:  The Jundarwood is in the Border Kingdoms, to the northwest and on the far side of the Shaar.
 
 [^8]:  Almraiven is a city in eastern Calimshan known for its mages. The Shields’ activities were concentrated in Calimshan, Tethyr, and around the Lake of Steam. Their exploits include the slaying of several liches, the exposure of the then-current ruler of Ankhapur as a disguised beholder, and a very destructive battle against a trio of Red Wizards in the skies above Innarlith. The last resulted in the restoration of much of the damage by means of multiple miracle spells, the combined toll of which aged Brother Jabir el-Ilmater nearly to the point of death. Upon discovering that several children died in the clash, the prematurely-aged Brother Jabir looked skyward, bid his companions in arms a fond farewell, and spent the last of his life to restore them.
 
