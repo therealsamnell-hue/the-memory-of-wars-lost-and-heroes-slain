@@ -41,7 +41,7 @@ The survivors’ tales of a vast complex dedicated to evil, perilous beyond imag
 
 [^7]:  The Jundarwood is in the Border Kingdoms, to the northeast and on the far side of the Shaar.
 
-[^8]:  Almraiven is a city in eastern Calimshan known for its mages. The Shields’ activities were concentrated in Calimshan, Tethyr, and around the Lake of Steam. Their exploits include the slaying of several liches, the exposure of the then-current ruler of Ankhapur as a disguised beholder, and a very destructive battle against a trio of Red Wizards in the skies above Innarlith. The last resulted in the restoration of much of the damage by means of multiple miracle spells, the combined toll of which aged Brother Jabir el-Ilmater nearly to the point of death. Upon discovering that several children died in the clash, the prematurely-aged Brother Jabir looked skyward, bid his companions in arms a fond farewell, and spent the last of life to restore them.
+[^8]:  Almraiven is a city in eastern Calimshan known for its mages. The Shields’ activities were concentrated in Calimshan, Tethyr, and around the Lake of Steam. Their exploits include the slaying of several liches, the exposure of the then-current ruler of Ankhapur as a disguised beholder, and a very destructive battle against a trio of Red Wizards in the skies above Innarlith. The last resulted in the restoration of much of the damage by means of multiple miracle spells, the combined toll of which aged Brother Jabir el-Ilmater nearly to the point of death. Upon discovering that several children died in the clash, the prematurely-aged Brother Jabir looked skyward, bid his companions in arms a fond farewell, and spent the last of his life to restore them.
 
 [^9]:  The closely allied human gods Tyr, Ilmater, and Torm
 
